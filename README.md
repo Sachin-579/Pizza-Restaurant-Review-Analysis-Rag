@@ -32,7 +32,6 @@ Vector Storage & Retrieval – Stores embeddings in ChromaDB for semantic simila
 
 LLM Response Generation – Uses Ollama (e.g., llama3, mistral) to generate contextual answers
 
-🗂️ Project Structure
 📁 pizza-restaurant-review-analysis/
 │
 ├── 📄 main.py                     # Main entry point for the RAG pipeline
@@ -44,6 +43,7 @@ LLM Response Generation – Uses Ollama (e.g., llama3, mistral) to generate cont
 ├── 📄 requirements.txt            # Python dependencies
 ├── 📁 venv/                       # Virtual environment
 └── ⚙️ pyvenv.cfg
+
 🧩 Installation
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/pizza-restaurant-review-analysis.git
